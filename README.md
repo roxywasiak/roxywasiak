@@ -32,13 +32,11 @@
 
 <div id="header" align="center">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="" />
 </div>
 
 <br>
@@ -54,7 +52,6 @@
 
 <div id="header" align="center">
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="" />
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -62,7 +59,7 @@
 
 <div id="header" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxywasiak" />
-<img src="	https://github-profile-trophy.vercel.app/?username=roxywasiak"/>
+<img src="https://github-profile-trophy.vercel.app/?username=roxywasiak"/>
 <img src="https://github-readme-stats.vercel.app/api?username=roxywasiak" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=roxywasiak" />
 </div>
