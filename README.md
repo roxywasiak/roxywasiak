@@ -10,19 +10,19 @@
 </div>
 
 <div id="header" align="center">
-<h2>A leader in software sales currently working for Advanced, one of the largest software providers in the UK. A team player with a competitive edge.</h2>
+<h2>Software Apprentice Engineer at BT working on Global Cloud Solutions, dedicated to learning, innovating and problem solving in the world of engineering. Excited to embark on this journey of growth and developement during my digital technology solutions degree.</h2>
 </div>
 <BR>
 
-- 🔭 I’m currently working on ...A team profile generator
-- 🌱 I’m currently learning ...Node JS
+- 🔭 I’m currently working on ...An email generator with BT
+- 🌱 I’m currently learning ...C#
   -✨ Learning full stack Developement at University Of Birmingham
 - 👯 I’m looking to collaborate on beauty, travel and cooking projects that are code based!
-- 🤔 I’m looking for help with building my portfolio further
-- 💬 Ask me about software that's my job
+- 🤔 I’m looking for any good advice as an engineer
+- 💬 Ask me about my projects
 - 📫 How to reach me: ruksclone@hotmail.com
 - 😄 Pronouns: she / her
-- ⚡ Fun fact: ... I love experimenting with food! I am expert rainbow bagel maker!
+- ⚡ Fun fact: ... I love experimenting with food! I am an expert in the kitchen!
 
 <div id="header" align="center">
 <h1> My Skills ✨ </h1>
