@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on ...An email generator with BT
 - 🌱 I’m currently learning ...C#
-  -✨ Learning full stack Developement at University Of Birmingham
+  -✨ Computer Science degree apprentice 
 - 👯 I’m looking to collaborate on beauty, travel and cooking projects that are code based!
 - 🤔 I’m looking for any good advice as an engineer
 - 💬 Ask me about my projects
